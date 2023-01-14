@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scheme version="2.0" title="Bit.io" description="We are going to try to link from Orange to Bit.io using the SQL widget">
+	<nodes>
+		<node id="0" name="SQL Table" qualified_name="Orange.widgets.data.owsql.OWSql" project_name="Orange3" version="" title="SQL Table" position="(107.0, 102.0)" />
+	</nodes>
+	<links />
+	<annotations />
+	<thumbnail />
+	<node_properties>
+		<properties node_id="0" format="literal">{'controlAreaVisible': True, 'database': 'bitdotio', 'download': True, 'guess_values': True, 'host': 'db.bit.io', 'materialize': False, 'materialize_table_name': '', 'port': None, 'savedWidgetGeometry': b'\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02A\x00\x00\x00|\x00\x00\x03\xd9\x00\x00\x02\x10\x00\x00\x02A\x00\x00\x00\x98\x00\x00\x03\xd9\x00\x00\x02\x10\x00\x00\x00\x00\x00\x00\x00\x00\x05\xa0\x00\x00\x02A\x00\x00\x00\x98\x00\x00\x03\xd9\x00\x00\x02\x10', 'schema': '', 'selected_backend': None, 'sql': '', 'table': None, '__version__': 2}</properties>
+	</node_properties>
+	<session_state>
+		<window_groups />
+	</session_state>
+</scheme>
